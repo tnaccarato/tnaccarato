@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tnaccarato
-- 🌱 I’m currently learning Python and Java through the HyperionDev Software Engineering bootcamp as well as working my way through The Odin Project.
+- 🌱 I’m always eager to learn! I'm new to programming but I am currently learning Python and Java through the HyperionDev Software Engineering bootcamp as well as working my way through The Odin Project.
 - 📫 You can reach me through my email: tcarlnaccarato@gmail.com
 
 <!---
