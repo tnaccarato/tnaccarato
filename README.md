@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tnaccarato
-- 🌱 I have recently graduated with a master’s degree (2:1) and am looking for my first position as a Software Engineer. My degree was in Biomedical Science but after discovering a love of coding whilst working on my final thesis, I enrolled on HyperionDev’s (in partnership with the University of Edinburgh) software engineering bootcamp. I have a particular interest in Python and Java but am very flexible and would consider any Software Engineering roles. 
+- 🌱 I am a MSc Advanced Computer Science student, already holding a MSci in Biomedical Science (2:1) and am looking for my first position as a Software Engineer. After discovering a love of coding whilst working on my final thesis, I enrolled on HyperionDev’s (in partnership with the University of Edinburgh) software engineering bootcamp. I have a particular interest in Python and Java but am very flexible and would consider any Software Engineering roles. 
  
 At HyperionDev, I:
   - Graduated top of class and achieved an average grade of 100%.
