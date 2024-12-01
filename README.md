@@ -1,5 +1,5 @@
 
-# Hi, I’m @tnaccarato
+👋 Hi, I’m @tnaccarato
 
 🌟 Advanced Computer Science Master's graduate with a background in Biomedical Science. Passionate about software engineering and data science, with a focus on Python, Java, and scalable application design.
 
